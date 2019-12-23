@@ -5,15 +5,15 @@
 ============== and a 'Tiled' map ================    
 *************************************************
 
-Files in this archive:
-   a5_2d_platformer.tmx  ('Tiled' project file)
-   a5.tsx  ('Tiled' tileset file)
-   TempleTIles.png (background & playfield bitmap by Pyromantic)
-   a5_2d_platformer_background.csv (background layer exported from 'Tiled' as CSV file)
-   a5_2d_platformer_gamefield.csv  (gamefield layer exported from 'Tiled' as CSV file)
-   main2.c, main2.h  ( C source code)
-   player.png  (player bitmap)
-   Read Me.txt  (this file)
+Files in this archive:   
+   a5_2d_platformer.tmx  ('Tiled' project file)   
+   a5.tsx  ('Tiled' tileset file)   
+   TempleTIles.png (background & playfield bitmap by Pyromantic)   
+   a5_2d_platformer_background.csv (background layer exported from 'Tiled' as CSV file)   
+   a5_2d_platformer_gamefield.csv  (gamefield layer exported from 'Tiled' as CSV file)   
+   main2.c, main2.h  ( C source code)   
+   player.png  (player bitmap)   
+   Read Me.txt  (this file)   
 
 'Tiled' is a map editor software available at: https://www.mapeditor.org/
 
